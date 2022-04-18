@@ -86,6 +86,9 @@ if [ $confirm = "y" ]; then
     clear
     eye
     curl -s https://github.com/nathan242/ipcam-cctv/blob/master/cctv.php
+    curl -s https://github.com/nathan242/ipcam-cctv/blob/master/index.php
+    curl -s https://github.com/nathan242/ipcam-cctv/blob/master/liveview.php
+    curl -s https://github.com/nathan242/ipcam-cctv/blob/master/camera-manager.php
     echo
     echo
     echo "    Account CCTV"
